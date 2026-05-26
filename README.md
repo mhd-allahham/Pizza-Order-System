@@ -32,3 +32,7 @@ Die Anwendung ermöglicht es dem Benutzer:
 
 Mohamad Allahham
 
+## Screenshot
+
+![Pizza App](Bild1.png)
+
